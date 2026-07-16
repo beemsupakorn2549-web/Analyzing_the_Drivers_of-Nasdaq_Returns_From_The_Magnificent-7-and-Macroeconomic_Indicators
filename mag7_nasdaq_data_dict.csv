@@ -1,0 +1,13 @@
+﻿name,Variables,Description
+Nasdaq,y,Daily returns of the Nasdaq Composite Index.
+AAPL,x,Daily returns of Apple stock.
+MSFT,x,Daily returns of Microsoft stock.
+NVDA,x,Daily returns of Nvidia stock.
+GOOGL,x,Daily returns of Google (Alphabet) stock.
+TSLA,x,Daily returns of Tesla stock.
+META,x,Daily returns of Meta (Facebook) stock.
+Dollar_Index,x,US Dollar Index (against a basket of global currencies)
+VIX_Fear_Index,x,The CBOE Volatility Index (measures market fear).
+Treasury_Inflation,x,Shares TIPS Bond ETF ; tracks inflation-protected U.S. Treasuries.
+WTI_Crude_Oil,x,West Texas Intermediate Crude Oil Futures.
+COMEX_Gold,x,Gold Futures; represents the price of 100 troy ounces of gold.
